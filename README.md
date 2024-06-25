@@ -1,4 +1,10 @@
-## Hi there 👋
+# Bienvenido a mi Perfil
+
+## Acerca de mí
+
+¡Hola! Soy Jorge Chávez, un estudiante de la Universidad de Lima de Ingeniería de Sistemas, amo mi carrera pero sobre todo me encanta la programación web. 
+
+Estoy abierto a colaboraciones, oportunidades de aprendizaje y experiencia laboral como practicante.
 
 <!--
 **Jorge-Chavez004/Jorge-Chavez004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
