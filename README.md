@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-¡Hola! Soy Jorge Chávez, un estudiante de la Universidad de Lima de Ingeniería de Sistemas, amo mi carrera pero sobre todo me encanta la programación web. 
+¡Hola! Soy Jorge Chávez, un estudiante de la Universidad de Lima de Ingeniería de Sistemas, me encanta la programación web. 
 
 Estoy abierto a colaboraciones, oportunidades de aprendizaje y experiencia laboral como practicante.
 
